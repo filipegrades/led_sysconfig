@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "LED_sysconfig",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "LED_sysconfig",
+                "resourceId": "/LED_sysconfig"
+            }
+        }
+    ]
+}
